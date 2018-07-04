@@ -1,0 +1,82 @@
+.container {
+	text-align: center;
+	color: white;
+	
+}
+
+.logo img {
+	height: 30px;
+	margin-top: 20px;
+
+
+}
+
+.botones {
+	margin-bottom: 30px;
+
+}
+.container.header {
+	background-image: url("images/bg.jpeg");
+	
+
+}
+
+.titulo.header {
+	padding-top: 50px;
+
+}
+
+.row {
+margin-bottom: 150px;
+margin-top: 50px;
+
+}
+
+.container.center{
+	color: black;
+	padding-top: 20px;
+	text-align: center;
+
+}
+
+.img.center {
+
+	text-align: center;
+}
+
+.texto_boot {
+padding-top: 20px
+}
+
+.jumbotron {
+	text-align: center;
+}
+
+.container.inscribete {
+	color: black;
+}
+
+.boton.inscribete {
+	padding-top: 20px;
+}
+
+.contacto {
+	text-align: left;
+}
+
+.firma {
+	text-align: center;
+}
+
+.jumbotron.footer {
+	background-color: black;
+	color: white;
+	text-align: left;
+	padding: 10px 0px 10px 0px;
+	margin-bottom: 0%
+}
+
+.row.contacto {
+	margin-bottom:  30px;
+}
+
